@@ -1,0 +1,13 @@
+  My Restaurant-----------------------------------
+--------Customer#1-----------
+ Food Name     Preis
+Antipasto misto per due      15.9
+-----------------------------------
+Your total bill amount is $15.9
+Your Bill No is :1006
+--------Customer#2-----------
+ Food Name     Preis
+Spaghetti al Ragu ́       7.9
+-----------------------------------
+Your total bill amount is $7.9
+Your Bill No is :1007
